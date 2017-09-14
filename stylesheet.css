@@ -1,0 +1,50 @@
+body
+{
+  background-color: #FFCD00;
+}
+h1
+{
+  text-align: center
+}
+h2
+{
+  text-align: center
+}
+.wrap
+{
+  width: 80%;
+  padding: 5px;
+  margin: auto;
+  text-align: left;
+  border: 5px solid black;
+}
+.resume
+{
+  background-color: #ecebeb;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.photo
+{
+  width: 350px;
+  border: 25px solid black;
+  padding: 25px;
+  margin: left;
+  float: left
+}
+.photo2
+{
+  width: 350px;
+  border: 25px solid black;
+  padding: 25px;
+  margin: right;
+  float:right
+}
+p.clear
+{
+  clear: both;
+}
+.contactinfo
+{
+  text-align:center;
+  font-style:italic;
+}
