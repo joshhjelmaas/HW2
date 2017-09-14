@@ -28,7 +28,6 @@ h2
   width: 350px;
   border: 25px solid black;
   padding: 25px;
-  margin: left;
   float: left
 }
 .photo2
@@ -36,7 +35,6 @@ h2
   width: 350px;
   border: 25px solid black;
   padding: 25px;
-  margin: right;
   float:right
 }
 p.clear
